@@ -3,7 +3,7 @@ I am a Data Science Student.
 
 
 - 🌱 I’m currently learning Data science
-- 📫 How to reach me: www.linkedin.com/in/eman-chauhdary-02772b236
+- 📫 How to reach me: www.linkedin.com/in/eman-chauhdary
 - 😄 Pronouns: She/Her
 
 
