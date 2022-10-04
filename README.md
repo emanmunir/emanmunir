@@ -1,8 +1,14 @@
 ### Hi there 👋
-I am a Data Science Student.\
+I am a Data Science Student.
+
+
+- 🌱 I’m currently learning Data science
+- 📫 How to reach me: www.linkedin.com/in/eman-chauhdary-02772b236
+- 😄 Pronouns: She/Her
+
 
 <!--
-**PAPADOXIE/PAPADOXIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is a is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,6 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![emans's github stats](https://github-readme-stats.vercel.app/api?username=emanmunir&theme=radical&show_icons=true)](https://github.com/emanmunir/github-readme-stats)
 
-![emans's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emanmunir&theme=radical&layout=compact)
