@@ -6,7 +6,7 @@ I am a Data Science Student.
 - 📫 How to reach me: www.linkedin.com/in/eman-chauhdary
 - 😄 Pronouns: She/Her
 
-
+[![@emanmunir's Holopin board](https://holopin.me/emanmunir)](https://holopin.io/@emanmunir)
 <!--
 this is a is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
