@@ -11,8 +11,7 @@ I am a Data Science Student.
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emanmunir&theme=yellow&hide_border=false)<br/>
 ---
-![GitHub Readme Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanmunir&theme=yellow&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanmunir&theme=yellow&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ---
 
 <h3 align="left">Connect with me:</h3>
