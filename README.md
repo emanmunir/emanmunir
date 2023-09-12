@@ -1,5 +1,5 @@
 ### Hi there 👋
-###I am a Data Science Student.
+I am a Data Science Student.
 
 
 - 🌱 I’m currently learning Data science
