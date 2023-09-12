@@ -6,7 +6,14 @@ I am a Data Science Student.
 - 📫 How to reach me: www.linkedin.com/in/eman-chauhdary
 - 😄 Pronouns: She/Her
 
-[![@emanmunir's Holopin board](https://holopin.me/emanmunir)](https://holopin.io/@emanmunir)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=emanmunir&theme=yellow&hide_border=false&include_all_commits=true&count_private=true)<br/>
+---
+![](https://github-readme-streak-stats.herokuapp.com/?user=emanmunir&theme=radical&hide_border=false)<br/>
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanmunir&theme=yellow&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
@@ -16,5 +23,7 @@ I am a Data Science Student.
 <a href="https://codeforces.com/profile/bsdsf21a024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bsdsf21a024" height="30" width="40" /></a>
 </p>
 
+
+[![@emanmunir's Holopin board](https://holopin.me/emanmunir)](https://holopin.io/@emanmunir)
 
 
