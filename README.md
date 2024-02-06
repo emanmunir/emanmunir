@@ -41,6 +41,9 @@ I am a Data Science Student
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=emanmunir&theme=gruvbox&border_radius=4.5) -->
 #
 
+## Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanmunir&layout=donut)](https://github.com/emanmunir/github-readme-stats)
+
 ---
 
 <h3 align="left">Connect with me:</h3>
