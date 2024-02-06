@@ -36,9 +36,9 @@ I am a Data Science Student
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanmunir&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanmunir&theme=gruvbox&show_icons=true)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=emanmunir&theme=gruvbox&border_radius=4.5) -->
+
 #
 
 ## Languages 
