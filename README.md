@@ -32,21 +32,10 @@ I am a Data Science Student
 
 <br />
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emanmunir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emanmunir&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanmunir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 📊 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanmunir&theme=gruvbox&show_icons=true)
-
-
-#
-
-## Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanmunir&layout=donut)](https://github.com/emanmunir/github-readme-stats)
 
 ---
 
