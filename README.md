@@ -37,6 +37,7 @@ I am a Data Science Student
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=emanmunir&theme=onedark)](https://github.com/emanmunir/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emanmunir&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emanmunir&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanmunir&hide_progress=true&theme=onedark)
 
 ---
 
