@@ -39,6 +39,8 @@ I am a Data Science Student
 
 ---
 
+![](https://komarev.com/ghpvc/?username=emanmunir&color=yellow)
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
