@@ -39,7 +39,7 @@ I am a Data Science Student
 
 ---
 
-![](https://komarev.com/ghpvc/?username=your-github-username&base=300&color=yellow)
+![](https://komarev.com/ghpvc/?username=emanmunir&base=300&color=yellow)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
